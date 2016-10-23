@@ -270,6 +270,17 @@ bleachbit --clean transmission.cache
 
 
 
+echo 'shutdown the computer'
+echo 'shutdown the computer 10'
+echo 'shutdown the computer 9'
+echo 'shutdown the computer 8'
+echo 'shutdown the computer 7'
+echo 'shutdown the computer 6'
+echo 'shutdown the computer 5'
+echo 'shutdown the computer 4'
+echo 'shutdown the computer 3'
+echo 'shutdown the computer 2'
+echo 'shutdown the computer 1'
 
 
 
